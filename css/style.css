@@ -169,7 +169,7 @@ h5 {
   color: white;
   line-height: 1;
   text-align: left; }
-.toolbar .contact p {
+.toolbar .contact .lorem {
   font-size: 14px;
   font-family: 'OpenSans', sans-serif;
   color: rgba(255, 255, 255, 0.502);
@@ -200,11 +200,17 @@ h5 {
   height: 42px;
   border-radius: 50%;
   padding-top: 10px; }
+.toolbar p {
+  font-size: 14px;
+  color: #bface2;
+  line-height: 1.714;
+  margin: 0; }
 
 .social div {
   display: inline-block;
   margin-left: 15px;
-  margin-bottom: 20px; }
+  margin-bottom: 20px;
+  margin-top: 20px; }
 
 textarea {
   resize: none; }
