@@ -94,7 +94,7 @@ h2 {
   left: 30px; }
 
 .circle:hover::after {
-  content: ">";
+  content: "+";
   position: absolute;
   color: #f46d6d;
   font-size: 100px;
